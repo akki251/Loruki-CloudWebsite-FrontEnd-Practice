@@ -669,3 +669,14 @@ pre {
     animation: slideInFromDown 1s ease-in-out;
   }
 }
+
+@media (max-width: 434px) {
+  .showcase .card {
+    width: 350px;
+  }
+
+  .showcase-text
+  {
+    width: 350px;
+  }
+}
